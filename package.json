@@ -1,0 +1,27 @@
+{
+  "name": "plant-shop",
+  "version": "1.0.0",
+  "description": "A simple React app for displaying and managing a plant shop, including a product listing and shopping cart.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-redux": "^8.0.0",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.0",
+    "react-router-dom": "^6.4.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.0"
+  },
+  "keywords": ["react", "redux", "shopping-cart", "e-commerce"],
+  "author": "Umesh",
+  "license": "MIT",
+  "homepage": "https://github.com/umeshchdhry/my-plant-shop/"
+}
